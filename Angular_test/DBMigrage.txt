@@ -1,0 +1,2 @@
+﻿ dotnet ef migrations add CreateFirstInit
+ dotnet ef database add
